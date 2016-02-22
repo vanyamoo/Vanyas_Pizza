@@ -1,0 +1,128 @@
+<menu>
+    <category name="Pizzas" file_name="pizzas.php">
+        <item name="Margherita"> 
+            <price size="Small">8.50</price>
+            <price size="Large">12.50</price>
+            <description>classic, mozzarella di bufala, basil, parmesan, tomato sauce &amp; olive oil</description>
+        </item> 
+        <item name="Capriciossa">
+            <price size="Small">11.00</price>
+            <price size="Large">15.00</price>
+            <description>ham, mushroom, black olive &amp; artichoke</description>
+        </item>
+        <item name="Quattro Formaggio"> 
+            <price size="Small">10.00</price>
+            <price size="Large">14.50</price>
+            <description>gruyere, parmesan, mozzarella &amp; gorgonzola</description>
+        </item>  
+        <item name="Calzone"> 
+            <price size="Small">11.00</price>
+            <price size="Large">15.00</price>
+            <description>ricotta, mozzarella, salami, basil &amp; black pepper</description>
+        </item>  
+        <item name="Bianca"> 
+            <price size="Small">10.00</price>
+            <price size="Large">14.50</price>
+            <description>shaved parmesan, mozzarella, cherry tomatoes, prosciutto &amp; rocket</description>
+        </item> 
+        <item name="Caprese"> 
+            <price size="Small">13.00</price>
+            <price size="Large">17.00</price>
+            <description>beef tomatoes, mozzarella di buffala, basil oregano &amp; cracked black pepper</description>
+        </item>
+        <item name="Napoletana"> 
+            <price size="Small">6.50</price>
+            <price size="Large">10.00</price>
+            <description>tomato sauce, garlic &amp; oregano</description>
+        </item>
+        <item name="Vegetarian"> 
+            <price size="Small">7.00</price>
+            <price size="Large">13.50</price>
+            <description>mixed seasonal vegetables w/ tomato &amp; mozzarella</description>
+        </item> 
+        <item name="Siciliano"> 
+            <price size="Small">9.50</price>
+            <price size="Large">14.00</price>
+            <description>capers, olives, anchovies, oregano, mozzarella &amp; tomato sauce</description>
+        </item>
+        <item name="Vanya"> 
+            <price size="Small">11.00</price>
+            <price size="Large">15.00</price>
+            <description>butternut squash puree, pancetta, parmesan, mozzarella, rocket, black pepper &amp; grated goats cheese</description>
+        </item> 
+    </category>
+    <category name="Salads" file_name="salads.php">
+        <item name="Antipasto Pasta Salad">
+            <price size="Small">7.50</price>
+            <price size="Large">10.00</price>
+            <description>Rigatoni, tomatoes, red bell pepper, Genoa salami, pepperoni, Asiago cheese &amp; black olives</description>
+        </item> 
+        <item name="Panzanella Salad">
+            <price size="Small">6.50</price>
+            <price size="Large">8.50</price>
+            <description>cherry tomatoes, onion, basil, green olives, fresh mozzarella &amp; artisan bread</description>
+        </item>
+        <item name="Caprese">   
+            <price size="Small">6.50</price>
+            <price size="Large">8.50</price>
+            <description>beef tomatoes, mozzarella di buffala, basil oregano &amp; cracked black pepper</description>
+        </item>  
+        <item name="Mid-Summer Italian Bread Salad">
+            <price size="Small">5.50</price>
+            <price size="Large">7.50</price>
+            <description>tomatoes, cucumber, fresh thyme &amp; crusty sourdough bread</description>
+        </item> 
+        <item name="Broccolini Salad">
+            <price size="Small">5.50</price>
+            <price size="Large">7.50</price>
+            <description>cherry tomatoes, roasted hazelnuts, feta &amp; wholegrain dressing</description>
+        </item>
+        <item name="Italian Leafy Green Salad">
+            <price size="Small">6.50</price>
+            <price size="Large">8.50</price>
+            <description>romaine lettuce, escarole, radicchio, tomatoes &amp; green bell pepper</description>
+        </item>
+        <item name="Eggplant Salad">
+            <price size="Small">5.00</price>
+            <price size="Large">7.00</price>
+            <description>eggplant, garlic &amp; oregano</description>
+        </item>
+        <item name="Bocconcini Salad">
+            <price size="Small">6.50</price>
+            <price size="Large">8.00</price>
+            <description> bocconcini, cherry tomatoes, green bell pepper &amp; arugula</description>
+        </item> 
+    </category>
+    <category name="Pasta" file_name="pasta.php">
+        <item name="Linguini">
+            <price size="Small">0.00</price>
+            <price size="Large">18.00</price>
+            <description>w/ Clams, white wine, garlic, chilli, parsley, olive oil &amp; cherry tomatoes</description>
+        </item> 
+        <item name="Rigatoni">
+            <price size="Small">0.00</price>
+            <price size="Large">14.00</price>
+            <description>w/ Smoked Pancetta, mushroom, herbs, cream &amp; parmesan</description>
+        </item>
+        <item name="Rigatoni Bolognese">   
+            <price size="Small">0.00</price>
+            <price size="Large">14.00</price>
+            <description>w/ basil &amp; parmesan</description>
+        </item>  
+        <item name="Fresh Pappardelle">
+            <price size="Small">0.00</price>
+            <price size="Large">14.00</price>
+            <description>w/ spicy sausage, tomato sauce &amp; parmesan</description>
+        </item> 
+    </category>
+    <category name="Wraps" file_name="wraps.php">
+    </category>
+    <category name="Antipasti/Starters" file_name="antipasti.php">
+    </category>
+    <category name="Side Orders" file_name="sides.php">
+    </category>
+    <category name="Desserts" file_name="desserts.php">
+    </category>
+    <category name="About" file_name="about.php">
+    </category>
+</menu>
